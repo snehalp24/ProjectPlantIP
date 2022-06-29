@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: /Users/srinivaseppala/Desktop/MyComputer/SRINIVAS/Projects/plant_app_flutter 2/android:flutter_paystack::debug">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.pub-cache/git/flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/res" />
+      <root url="file://$USER_HOME$/.pub-cache/git/flutter_paystack-a4a33c3dd0a12f46d655a2e63d11e9f20ba82d01/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

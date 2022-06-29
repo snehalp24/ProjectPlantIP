@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: /Users/srinivaseppala/Desktop/MyComputer/SRINIVAS/Projects/plant_app_flutter 2/android:image_picker_android::debug">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/res" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.4+13/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

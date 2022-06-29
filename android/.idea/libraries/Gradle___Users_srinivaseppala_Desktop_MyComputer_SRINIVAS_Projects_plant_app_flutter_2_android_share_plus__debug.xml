@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: /Users/srinivaseppala/Desktop/MyComputer/SRINIVAS/Projects/plant_app_flutter 2/android:share_plus::debug">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share_plus-4.0.4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share_plus-4.0.4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/res" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/share_plus-4.0.4/android/build/intermediates/library_manifest/debug/AndroidManifest.xml/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

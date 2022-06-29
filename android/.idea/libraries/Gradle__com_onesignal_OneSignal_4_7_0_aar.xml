@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.onesignal:OneSignal:4.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a79fceca579ec3b8b16dc65f88de2b4/jetified-OneSignal-4.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a79fceca579ec3b8b16dc65f88de2b4/jetified-OneSignal-4.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7a79fceca579ec3b8b16dc65f88de2b4/jetified-OneSignal-4.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
